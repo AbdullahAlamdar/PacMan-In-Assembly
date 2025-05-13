@@ -131,7 +131,17 @@ This is a Pac-Man inspired arcade game written entirely in **x86 Assembly Langua
 
 ## 📷 Screenshots
 
-_Add demo screenshots or ASCII preview of game grid here._
+###  Game Start Screen
+![Start Screen ASSCI Art](images/screenshot1.png)
+
+###  Game Menu
+![Menu](images/screenshot2.png)
+
+### Level Selection
+![Level Selection](images/screenshot3.png)
+
+### Game Layout And Play
+![Game Layout](images/screenshot4.png)
 
 ---
 
